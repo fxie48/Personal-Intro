@@ -11,7 +11,7 @@ body {
 }
 
 .accent {
-    color: #FS4484;
+    color: #F54484;
 }
 
 h1 {
@@ -38,12 +38,12 @@ i {
 }
 
 a {
-    color: #000000;
+    color: #7F444F;
     text-decoration: none;
 }
 
 a:hover {
-    color: #FS4484;
+    color: #F54484;
 }
 
 .description {
